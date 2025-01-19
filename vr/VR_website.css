@@ -1,0 +1,393 @@
+.logo {
+    height: 35px;
+    width: 55px;
+}
+
+#item1 {
+    color: wheat;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+.navbar{
+    background-color: #1a2137 !important;
+}
+
+#item2 {
+    color: wheat;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+#item3 {
+    color:wheat;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+#item4 {
+    color: wheat;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.main-heading {
+    color: wheat;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.home-btn {
+    color: white;
+    background-color: #1a2137;
+    border-radius: 5px;
+    height: 42px;
+    width: 120px;
+    border-width: 0px;
+}
+.feature-bg {
+    background-color:wheat;
+    background-size: cover;
+}
+
+.features-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.ft1-card {
+    background-color:white ;
+    text-align: center;
+}
+
+.img-1 {
+    height: 60px;
+    width: 60px;
+}
+
+.ft1-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.ft1-desc {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.ft-in {
+    color: #1f2933;
+    font-style: italic;
+    font-weight: bold;
+}
+.ocs-bg {
+    background-color:whitesmoke;
+}
+
+.ocs-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.ocs-desc {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.ocs-btn {
+    color: white;
+    background-color: #1a2137;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+.cus-bg {
+    background-color: #222b36;
+    text-align: center;
+}
+
+.cus-heading {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+
+.cus-img {
+    width: 100%;
+}
+
+.cus-btn {
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 108px;
+    border-color: white;
+    border-width: 1px;
+    background-color: transparent;
+    font-size: 12px;
+}
+.tbs-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.tbs-card {
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.tbs-card-heading {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+    padding-left:10px;
+}
+
+.tbs-card-desc {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding-left:10px;
+}
+
+.tbs-card-link {
+    color: #1754a1;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+    padding-left:10px;
+}
+
+.tbs-card-btn {
+    color: white;
+    background-color: #1754a1;
+    border-radius: 5px;
+    border-width: 0px;
+    height: 40px;
+    width: 115px;
+    font-size: 14px;
+}
+.wps-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.wps-card1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    height: 90vh;
+    background-size: cover;
+}
+
+.wps-card-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 27px;
+    padding-left:10px;
+}
+
+.wps-card-price {
+    color: white;
+    font-family: "Roboto";
+    font-size: 14px;
+    padding-left:10px;
+}
+
+.wps-card-btn {
+    width: 90px;
+    font-size: 13px;
+    margin-left:10px;
+}
+
+.wps-card2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    height: 90vh;
+    background-size: cover;
+}
+
+.wps-btn {
+    color: white;
+    background-color: #1754a1;
+    border-width: 0px;
+    margin-top: 10px;
+    font-size: 13px;
+    height: 30px;
+    width: 105px;
+}
+.fs-bg {
+    background-color: #19232d;
+    background-size: cover;
+    height: 100vh;
+}
+
+.fs-img {
+    width: 60px;
+    height: 40px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.follow-us-icon-container {
+    background-color: #202b36;
+    height: 50px;
+    width: 50px;
+    padding-top: 15px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 15px;
+    border-radius: 40px;
+    margin: 5px;
+}
+
+.fs-add {
+    color: #5a7184;
+    font-size: 17px;
+    font-family: "Roboto";
+    padding-left: 10px;
+}
+
+.fs-heading {
+    color: #5a7184;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.hr-line {
+    color: #5a7184;
+}
+.products-container{
+    background-color: wheat;
+    background-size: cover;
+}
+
+.fs-finalhd {
+    color: #959ead;
+    font-size: 17px;
+    font-family: "Roboto";
+    padding-left:15px;
+}
+
+#item1:hover, #item2:hover, #item3:hover, #item4:hover {
+    color: #1754a1;
+    text-decoration: underline;
+}
+
+
+.home-btn:hover {
+    background-color: #1754a1;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+.ft1-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+
+.wps-card1:hover, .wps-card2:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+
+.wps-card-btn:hover, .ocs-btn:hover, .home-btn:hover, .tbs-card-btn:hover {
+    background-color: #1754a1;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+.tbs-card-link:hover, .ocs-btn:hover {
+    color: #1754a1;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+
+.tbs-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+
+.cus-btn:hover {
+    background-color: #1754a1;
+    border-color: #1754a1;
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+
+.icon:hover {
+    color: #1754a1;
+    transition: color 0.3s ease;
+}
+
+
+.follow-us-icon-container:hover {
+    background-color: #1754a1;
+    transition: background-color 0.3s ease;
+}
+
+.fs-add:hover, .fs-finalhd:hover {
+    color: #1754a1;
+    cursor: pointer;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+
+.fs-img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+
+.wps-btn:hover, .tbs-card-btn:hover {
+    background-color: #1754a1;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+.wps-card1:hover img, .wps-card2:hover img {
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+
+.wps-card-heading:hover, .wps-card-price:hover {
+    color: #1754a1;
+    transition: color 0.3s ease;
+}
